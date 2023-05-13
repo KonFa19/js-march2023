@@ -1,17 +1,11 @@
-// - Створити змінні. Присвоїти кожному з них значення: 'hello','owu','com', 'ua', 1, 10, -999, 123, 3.14, 2.7, 16, true, false.
+// - Створити змінні. Присвоїти кожному з них значення: 'hello','world', 1, 10, -999, 123, 3.14, 2.7, 16, true, false.
 //     Вивести кожну змінну за допомогою: console.log
 
 let hello = 'hello'
 console.log(hello)
 
-let owu = 'owu'
-console.log(owu)
-
-let com = 'com'
-console.log(com)
-
-let ua = 'ua'
-console.log(ua)
+let world = 'world'
+console.log(world)
 
 let num1 = 1
 console.log(num1)
