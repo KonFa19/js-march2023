@@ -54,6 +54,6 @@ console.log(typeof c);
 
 let firstName2 = prompt("Введіть ваше ім'я:");
 let middleName2 = prompt("Введіть ваше по-батькові:");
-let age = prompt("Введіть ваш вік:");
+let age = +prompt("Введіть ваш вік:");
 
 console.log(`Мене звати ${firstName2} ${middleName2} і мені ${age} років.`);
